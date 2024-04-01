@@ -64,6 +64,11 @@ nvm use v20.11.1
 > 
 > 不過 走這條路要加 SSH key 到 github account
 
+然後依照 [Setting up your GitHub repository (jzhao.xyz)](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)
+```bash
+git remote set-url origin REMOTE-URL(git那個URL)
+git remote add upstream https://github.com/jackyzha0/quartz.git
+```
 
 ### windows10, git bash
 
