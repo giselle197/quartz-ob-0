@@ -1,12 +1,11 @@
 ---
 longform:
   format: scenes
-  title: quartz, website
+  title: Obsidian
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Quartz
-  sceneTemplate: _Template/quartz.md
+    - Plugins
   ignoredFiles: []
 
 draft: true
