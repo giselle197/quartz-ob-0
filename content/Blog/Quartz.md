@@ -1,14 +1,11 @@
 ---
-title: "follow Nicole's video"
-description:
-aliases:
-  - 
-tags:
-  -
+title: Quartz
+description: 
+aliases: 
+tags: 
 draft: false
-date: "2024-04-01"
-
-create: "2024-04-01 22:11"
+date: 2024-04-01
+create: 2024-04-01 22:11
 ---
 
 Guide video: [How to publish your notes for free with Quartz - YouTube](https://www.youtube.com/watch?v=6s6DT1yN4dw)

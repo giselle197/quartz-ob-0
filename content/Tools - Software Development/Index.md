@@ -1,11 +1,10 @@
 ---
 longform:
   format: scenes
-  title: quartz, website
+  title: Tools - Software Development
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - follow Nicole's video
-  sceneTemplate: _Template/quartz.md
+    - Airflow
   ignoredFiles: []
 ---
